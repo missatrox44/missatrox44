@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @missatrox44
 - 👀 Aspiring Full-Stack Developer
-- 🌱 I’m currently learning HTML, CSS, and JavaScript
+- 🌱 I’m currently enrolled in UT Austin Bootcamp
 - 💞️ I’m looking to collaborate on websites for music artists
 - 📫 missatrox44@gmail.com
 
