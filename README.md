@@ -15,8 +15,8 @@ const missatrox = {
   code: ['HTML', 'CSS', 'JavaScript'],
   askMeAbout: ['music', 'web dev', 'tech', 'science fiction']
   technologies: {
-    stack: [MongoDB, Express, React, Node],
-    faveApps: ["Visual Studio Code", "Spotify", "Discord"],
+    stack: ['MongoDB', 'Express', 'React', 'Node'],
+    faveApps: ['Visual Studio Code', 'Spotify', 'Discord'],
     currentFocus: 'Deep dive into React, Gatsby, Firebase and Python'
     }
 }
