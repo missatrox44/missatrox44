@@ -17,7 +17,7 @@ const missatrox = {
   technologies: {
     stack: ['MongoDB', 'Express', 'React', 'Node'],
     faveApps: ['Visual Studio Code', 'Spotify', 'Discord'],
-    currentFocus: 'Deep dive into React, Gatsby, Firebase and Python'
+    currentFocus: 'Deep dive into React, Tailwind, and Material Design'
     }
 }
 ```
