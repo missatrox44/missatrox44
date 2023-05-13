@@ -11,15 +11,16 @@
 
 ```javascript
 const missatrox = {
-  pronouns: 'she' | 'her',
+  pronouns: ['she', 'her'],
   code: ['HTML', 'CSS', 'JavaScript'],
-  askMeAbout: ['music', 'web dev', 'tech', 'science fiction']
+  askMeAbout: ['music', 'web dev', 'tech', 'science fiction'],
   technologies: {
     stack: ['MongoDB', 'Express', 'React', 'Node'],
     faveApps: ['Visual Studio Code', 'Spotify', 'Discord'],
-    currentFocus: 'Deep dive into React, Tailwind, and Material Design'
-    }
-}
+    currentFocus: 'Deep dive into React, Tailwind, and Material Design',
+  },
+};
+
 ```
 
 ### 𝗦𝘁𝗮𝘁𝘀
