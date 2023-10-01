@@ -12,15 +12,30 @@
 ```javascript
 const missatrox = {
   pronouns: ['she', 'her'],
+  education: [
+    {
+      school: 'University of Texas at Austin',
+      degree: 'Full Stack Web Development Certificate',
+      year: '2022'
+    },
+    {
+      school: 'University of Texas at El Paso',
+      degrees: [ 
+        'M.S. Biological Sciences',
+        'B.S. Ecology & Evolutionary Biology' 
+      ],
+      year: '2009-2017'
+    }
+  ],
   code: ['HTML', 'CSS', 'JavaScript'],
   askMeAbout: ['music', 'web dev', 'tech', 'science fiction'],
   technologies: {
     stack: ['MongoDB', 'Express', 'React', 'Node'],
     faveApps: ['Visual Studio Code', 'Spotify', 'Discord'],
-    currentFocus: 'Deep dive into React, Tailwind, and Material Design',
+    currentFocus: ['Next.js', 'Svelte', 'MUI'],
   },
+  hobbies: ['reading', 'hiking', 'running'],
 };
-
 ```
 
 ### 𝗦𝘁𝗮𝘁𝘀
