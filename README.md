@@ -6,9 +6,9 @@
 ---
 
 ### 🐞 About Me  
-I’m a **Full Stack Developer** with 3+ years of experience building digital experiences for brands like **National Geographic** and [Manresa Wilds](https://www.manresawilds.org/). 
+I’m a **Full Stack Developer** with 3+ years of experience building digital experiences for brands like **National Geographic**, **Name.com**, and **Motorola**. 
 
-I thrive in **remote and async environments**, where clear communication and trust make all the difference. I stay active in developer communities like [100Devs](https://leonnoel.com/100devs/), [Virtual Coffee](https://virtualcoffee.io/), and [Dallas Software Developers](https://www.dallassoftwaredevelopers.org/), attending meetups, sharing knowledge and making so many great connections.
+I thrive in **remote and async environments**, where clear communication and trust make all the difference. That said, I am **open to relocating** for the right opportunity and genuinely welcome **hybrid or onsite** roles! I stay active in developer communities like [100Devs](https://leonnoel.com/100devs/), [Virtual Coffee](https://virtualcoffee.io/), and [Dallas Software Developers](https://www.dallassoftwaredevelopers.org/), attending meetups, sharing knowledge and making so many great connections.
 
 The best engineering teams I’ve worked on embraced a **“no-ego” culture**, where feedback flows freely and code reviews are opportunities to improve the code, not criticize the developer.
 
@@ -38,12 +38,23 @@ const missatrox = {
 
 ### 🛠️ Tech & Tools  
 
-**Languages & Frameworks**  
-`JavaScript` • `TypeScript` • `React` • `Next.js` • `React Native` • `Node.js` • `Vue` • `PHP` • `Sass`  
+**Languages**
+`TypeScript` • `JavaScript (ES6+)` • `Python` • `HTML5` • `CSS3` • `Sass` • `Liquid` • `PHP`
 
-**Databases & APIs**  
-`MongoDB` • `Supabase` • `Firebase` • `GraphQL` • `REST`  
+**Frameworks & UI**
+`React` • `Next.js` • `Vue.js` • `React Native` • `TanStack` • `TailwindCSS` • `Vite`
 
+**Databases & APIs**
+`MySQL` • `PostgreSQL` • `MongoDB` • `Supabase` • `Firebase` • `Turso` • `GraphQL` • `REST`
+
+**CMS & Platforms**
+`Shopify` • `Prismic` • `Craft CMS` • `Sanity` • `WordPress`
+
+**DevOps & Tooling**
+`Git` • `GitHub Actions` • `Vercel` • `Netlify` • `Docker` • `Figma` • `Cypress`
+
+**AI Tooling**
+`Claude` • `Cursor` • `GitHub Copilot` • `v0`
 
 ---
 
@@ -55,7 +66,7 @@ const missatrox = {
 
 ---
 
-### 📊 GitHub Stats  
+<!-- ### 📊 GitHub Stats  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=missatrox44&layout=compact&theme=radical)  
-
+ -->
